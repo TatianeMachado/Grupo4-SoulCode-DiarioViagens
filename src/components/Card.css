@@ -1,0 +1,12 @@
+.card-body {
+  width: 30rem;
+}
+.imgCard {
+  width: 470px;
+  height: 300px;
+}
+.card-title {
+  color: orange;
+  font-weight: 700;
+  
+}

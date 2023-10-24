@@ -1,0 +1,16 @@
+section {
+    background-color: #50abe4;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-size: calc(10px + 2vmin);  
+  }
+  .container-principal {
+    width: 1300px;  
+    background-color: white;
+    margin: 40px auto;
+    padding: 40px;
+    box-sizing: border-box;
+    text-align: justify;
+    
+  }
